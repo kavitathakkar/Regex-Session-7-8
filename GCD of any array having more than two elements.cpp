@@ -1,3 +1,6 @@
+//Task-3
+//CPRSS1131
+//Kavita Thakkar
 #include <stdio.h>
 int findGCD(int, int);
 
