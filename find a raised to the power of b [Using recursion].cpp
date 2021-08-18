@@ -1,3 +1,6 @@
+//Task-2
+//CPRSS1131
+//Kavita Thakkar
 #include <stdio.h>
 int power(int n1, int n2);
 int main() {
